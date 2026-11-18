@@ -2,7 +2,7 @@
 
 Transferência de arquivos entre duas aplicações via **TCP Sockets** em **C# Windows Forms**: um **Servidor** que recebe e salva arquivos, e um **Cliente** que escolhe e envia um arquivo.
 
-![Servidor e Cliente funcionando](docs/screenshot.jpg)
+![Servidor e Cliente funcionando](docs/screenshot.jpeg)
 
 ## Funcionalidades
 
